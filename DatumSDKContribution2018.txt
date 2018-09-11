@@ -1,0 +1,6 @@
+While I've been working on project 'Use Datum SDK to make "Something Innovative" without limits'
+ i became comfortable about Datum SDK. If there is more time i hope i will become comfortable with eth-lightwallet. i managed to do:
+ 1. i create new identity and wrote in file 
+ 2. become comfortable with node.js module dateformat (MIT Licence)
+ 3. insert system date in certain format in Datum SDK data storage
+ If i have more time i could do some cryptography, because as i know timestamp(system time) is used in cryptography algorithm frequently. 
